@@ -1,0 +1,24 @@
+From e2ab3ef736b8841a468a6047fdc8745ed0261138 Mon Sep 17 00:00:00 2001
+From: Hasanboy2003 <maxmudovhasanboy070@gmail.com>
+Date: Tue, 11 Oct 2022 21:01:16 +0500
+Subject: [PATCH] update 1 firstFile.txt git_1 branch
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..d2c1a24 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1@
++2@
+ 3
+ 4
+ 5
+-- 
+2.34.1.windows.1
+
